@@ -115,6 +115,17 @@ Star the repo if you find it useful! ⭐
 - Web scraping must comply with website terms of service, robots.txt, and applicable laws (GDPR, CCPA). ⚖️
 - Self-hosted open-source solutions require proper proxy management and ethical usage practices. 🛡️
 
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Website-To-API&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Website-To-API&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Website-To-API&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Website-To-API&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for developers, data engineers, AI builders, and automation enthusiasts.**  
