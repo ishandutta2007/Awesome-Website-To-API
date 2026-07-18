@@ -39,39 +39,39 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Website-To-API Tools
 
-- **[Firecrawl](https://github.com/mendableai/firecrawl)**  
-  Powerful open-source tool that crawls and converts any website into clean, structured Markdown or JSON data with LLM-ready output.
-
-- **[Apify](https://github.com/apify)**  
-  Open-source actors and SDK for building scalable web scraping and website-to-API solutions with a large actor store.
-
-- **[Playwright](https://github.com/microsoft/playwright)**  
-  Modern browser automation library widely used to build reliable website-to-API tools with JavaScript rendering support.
-
-- **[Puppeteer](https://github.com/puppeteer/puppeteer)**  
+- **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
   Headless Chrome Node.js library for creating custom website scraping and API generation tools.
 
-- **[Scrapy](https://github.com/scrapy/scrapy)**  
+- **[Playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+  Modern browser automation library widely used to build reliable website-to-API tools with JavaScript rendering support.
+
+- **[Firecrawl](https://github.com/mendableai/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
+  Powerful open-source tool that crawls and converts any website into clean, structured Markdown or JSON data with LLM-ready output.
+
+- **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
   Powerful Python framework for building web crawlers and turning websites into structured APIs.
 
-- **[Colly](https://github.com/gocolly/colly)**  
+- **[Colly](https://github.com/gocolly/colly)** [![GitHub stars](https://img.shields.io/github/stars/gocolly/colly?style=social&color=white)](https://github.com/gocolly/colly/stargazers)  
   Fast and elegant Go framework for building web scrapers and website-to-API services.
 
-- **[Browserless](https://github.com/browserless/browserless)**  
+- **[Apify](https://github.com/apify)** [![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
+  Open-source actors and SDK for building scalable web scraping and website-to-API solutions with a large actor store.
+
+- **[Newspaper3k](https://github.com/codelucas/newspaper)** [![GitHub stars](https://img.shields.io/github/stars/codelucas/newspaper?style=social&color=white)](https://github.com/codelucas/newspaper/stargazers)  
+  Open-source Python library for extracting and parsing news articles into structured data/APIs.
+
+- **[Browserless](https://github.com/browserless/browserless)** [![GitHub stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers)  
   Open-source headless browser service for reliable scraping and website-to-API conversion.
 
-- **[Jina Reader](https://github.com/jina-ai/reader)**  
+- **[Jina Reader](https://github.com/jina-ai/reader)** [![GitHub stars](https://img.shields.io/github/stars/jina-ai/reader?style=social&color=white)](https://github.com/jina-ai/reader/stargazers)  
   Open-source tool that converts any URL into clean, LLM-friendly Markdown or structured data.
 
-- **[ trafilatura](https://github.com/adbar/trafilatura)**  
+- **[ trafilatura](https://github.com/adbar/trafilatura)** [![GitHub stars](https://img.shields.io/github/stars/adbar/trafilatura?style=social&color=white)](https://github.com/adbar/trafilatura/stargazers)  
   Excellent open-source library for extracting main content from web pages into clean, structured formats.
-
-- **[Newspaper3k](https://github.com/codelucas/newspaper)**  
-  Open-source Python library for extracting and parsing news articles into structured data/APIs.
 
 ### Additional Strong Open-Source Options
 
-- **[Unstructured](https://github.com/Unstructured-IO/unstructured)** — Library for ingesting and structuring documents and web content.
+- **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) — Library for ingesting and structuring documents and web content.
 - **[BeautifulSoup + FastAPI** templates for quick website-to-REST-API wrappers.
 - **[LangGraph Web Agents** for intelligent, multi-step website data extraction.
 - **[n8n** workflows for building no-code website-to-API pipelines.
