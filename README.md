@@ -23,13 +23,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Website-To-API Tools)
 
-| Product | Description | Pricing & Free Tier Limits |
-| :--- | :--- | :--- |
-| **[Parse](https://parseplatform.org/)** (via commercial services like [Back4app](https://www.back4app.com/)) | Backend-as-a-Service with strong web data integration and API generation capabilities. | **Free Tier:** 25,000 requests/month, 250 MB database storage, 1 GB transfer, 1 GB file storage.<br>Paid plans starting at $15/month. |
-| **[Integuru](https://integuru.com/)** | AI-powered tool that turns any website into a clean, structured API. | **Free Tier:** Free tier for testing (managed) and free self-hosted open-source version.<br>Managed developer plan starting at ~$30/month. |
-| **[expand.ai](https://expand.ai/)** | Intelligent platform for converting web content into usable APIs and data feeds. | **Free Tier:** Waitlist / Private Beta.<br>Pricing details unavailable. |
-| **[Rindler](https://rindler.ai/)** | AI-driven website-to-API conversion with advanced scraping and structuring features. | **Free Tier:** Free for developers/individuals (full catalog access, map new sites, MCP server).<br>Custom Enterprise pricing for production teams. |
-| **[Context.dev](https://context.dev/)** | Developer-focused tool for turning websites into context-rich, queryable APIs. | **Free Tier:** 500 API credits (work email) or 250 API credits (free email), plus 10,000 logo link requests.<br>Paid plans available. |
+| Product | Description | Company Size (Valuation/Revenue) | Pricing & Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Parse](https://parseplatform.org/)** (via commercial services like [Back4app](https://www.back4app.com/)) | Backend-as-a-Service with strong web data integration and API generation capabilities. | Estimated $1.7M ARR / ~$3.1M Funding | **Free Tier:** 25,000 requests/month, 250 MB database storage, 1 GB transfer, 1 GB file storage.<br>Paid plans starting at $15/month. |
+| **[Context.dev](https://context.dev/)** | Developer-focused tool for turning websites into context-rich, queryable APIs. | YC W25 Backed / ~$10M Valuation | **Free Tier:** 500 API credits (work email) or 250 API credits (free email), plus 10,000 logo link requests.<br>Paid plans available. |
+| **[Integuru](https://integuru.com/)** | AI-powered tool that turns any website into a clean, structured API. | YC Backed / ~$10M Valuation | **Free Tier:** Free tier for testing (managed) and free self-hosted open-source version.<br>Managed developer plan starting at ~$30/month. |
+| **[Rindler](https://rindler.ai/)** | AI-driven website-to-API conversion with advanced scraping and structuring features. | YC S26 Backed / ~$10M Valuation | **Free Tier:** Free for developers/individuals (full catalog access, map new sites, MCP server).<br>Custom Enterprise pricing for production teams. |
+| **[expand.ai](https://expand.ai/)** | Intelligent platform for converting web content into usable APIs and data feeds. | Early Stage / Undisclosed | **Free Tier:** Waitlist / Private Beta.<br>Pricing details unavailable. |
 
 ### Advanced & Specialized Platforms
 
