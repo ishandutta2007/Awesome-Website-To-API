@@ -4,11 +4,11 @@
   <img src="assets/banner.svg" alt="Awesome Website-To-API Banner" width="100%"/>
 </div>
 
-## Top Website-To-API Tools Ecosystem
+## 🚀 Top Website-To-API Tools Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Converting Websites into Structured APIs, Scraping & Data Extraction*  
-**Last updated: March 2026**
+**Curated List of SaaS Products & Open-Source GitHub Projects** 🌐  
+*Focused on Converting Websites into Structured APIs, Scraping & Data Extraction* 📝  
+**Last updated: March 2026** 📅
 
 This repository tracks notable **SaaS platforms** and **open-source projects** for **Website-To-API Tools**. These tools transform any website into a structured, queryable API, enabling web scraping, data extraction, content conversion, and integration into applications without maintaining custom crawlers.
 
@@ -18,15 +18,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📋 Table of Contents
+- [SaaS Products 💼](#saas-products)
+- [Open-Source GitHub Projects 📂](#open-source-github-projects)
+- [How to Contribute 🤝](#how-to-contribute)
+- [Disclaimer ⚠️](#disclaimer)
 
-## SaaS Products
+## 💼 SaaS Products
 
-### Core Platforms (Website-To-API Tools)
+### ⚙️ Core Platforms (Website-To-API Tools)
 
 | Product | Description | Company Size (Valuation/Revenue) | Pricing & Free Tier Limits |
 | :--- | :--- | :--- | :--- |
@@ -36,13 +36,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Rindler](https://rindler.ai/)** | AI-driven website-to-API conversion with advanced scraping and structuring features. | YC S26 Backed / ~$10M Valuation | **Free Tier:** Free for developers/individuals (full catalog access, map new sites, MCP server).<br>Custom Enterprise pricing for production teams. |
 | **[expand.ai](https://expand.ai/)** | Intelligent platform for converting web content into usable APIs and data feeds. | Early Stage / Undisclosed | **Free Tier:** Waitlist / Private Beta.<br>Pricing details unavailable. |
 
-### Advanced & Specialized Platforms
+### ⚡ Advanced & Specialized Platforms
 
 **Other notable mentions**: Firecrawl, Browserless, and various AI web scraping services.
 
-## Open-Source GitHub Projects
+## 📂 Open-Source GitHub Projects
 
-### Dedicated Website-To-API Tools
+### 🛠️ Dedicated Website-To-API Tools
 
 - **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
   Headless Chrome Node.js library for creating custom website scraping and API generation tools.
@@ -74,7 +74,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[ trafilatura](https://github.com/adbar/trafilatura)** [![GitHub stars](https://img.shields.io/github/stars/adbar/trafilatura?style=social&color=white)](https://github.com/adbar/trafilatura/stargazers)  
   Excellent open-source library for extracting main content from web pages into clean, structured formats.
 
-### Additional Strong Open-Source Options
+### 🔌 Additional Strong Open-Source Options
 
 - **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) — Library for ingesting and structuring documents and web content.
 - **[BeautifulSoup + FastAPI** templates for quick website-to-REST-API wrappers.
@@ -85,20 +85,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom tools**: Combine **Firecrawl**, **Playwright**, **Scrapy**, and **Jina Reader** with **FastAPI** or **LangGraph** to create robust, self-hosted website-to-API solutions.
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+1. Fork the repo. 🍴
+2. Add/edit entries in `README.md` (follow existing format). ✍️
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source. 🔗
+4. Submit PR with a short explanation. 🚀
 
-Star the repo if you find it useful!
+Star the repo if you find it useful! ⭐
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Web scraping must comply with website terms of service, robots.txt, and applicable laws (GDPR, CCPA).
-- Self-hosted open-source solutions require proper proxy management and ethical usage practices.
+- This is a **community-curated** list — not exhaustive and not an endorsement. 🔍
+- Web scraping must comply with website terms of service, robots.txt, and applicable laws (GDPR, CCPA). ⚖️
+- Self-hosted open-source solutions require proper proxy management and ethical usage practices. 🛡️
 
 ---
 
