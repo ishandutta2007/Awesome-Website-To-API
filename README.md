@@ -50,6 +50,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Integuru](https://integuru.com/)** | AI-powered tool that turns any website into a clean, structured API. | YC Backed / ~$10M Valuation | **Free Tier:** Free tier for testing (managed) and free self-hosted open-source version.<br>Managed developer plan starting at ~$30/month. |
 | **[Rindler](https://rindler.ai/)** | AI-driven website-to-API conversion with advanced scraping and structuring features. | YC S26 Backed / ~$10M Valuation | **Free Tier:** Free for developers/individuals (full catalog access, map new sites, MCP server).<br>Custom Enterprise pricing for production teams. |
 | **[expand.ai](https://expand.ai/)** | Intelligent platform for converting web content into usable APIs and data feeds. | Early Stage / Undisclosed | **Free Tier:** Waitlist / Private Beta.<br>Pricing details unavailable. |
+| **[Vend API Merchant](https://extract.paypercall.dev/)** | Pay-per-call website-to-API: turn any URL into clean LLM-ready Markdown/text, plus keyword and relevance-scored semantic search (`search.paypercall.dev/api/v1/neural-search`), link check, URL status, domain intelligence, geoip, Nano account info, and YouTube transcript. Settled instantly in Nano (XNO) via the x402 402-challenge — no API key, no signup, no monthly plan. | Self-funded / open standard | **Pay-per-call:** 0.0001-0.0005 XNO per call depending on the endpoint.<br>No free tier needed — a real paid call returns immediately. |
 
 ### ⚡ Advanced & Specialized Platforms
 
