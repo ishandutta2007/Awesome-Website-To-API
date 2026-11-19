@@ -50,6 +50,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Integuru](https://integuru.com/)** | AI-powered tool that turns any website into a clean, structured API. | YC Backed / ~$10M Valuation | **Free Tier:** Free tier for testing (managed) and free self-hosted open-source version.<br>Managed developer plan starting at ~$30/month. |
 | **[Rindler](https://rindler.ai/)** | AI-driven website-to-API conversion with advanced scraping and structuring features. | YC S26 Backed / ~$10M Valuation | **Free Tier:** Free for developers/individuals (full catalog access, map new sites, MCP server).<br>Custom Enterprise pricing for production teams. |
 | **[expand.ai](https://expand.ai/)** | Intelligent platform for converting web content into usable APIs and data feeds. | Early Stage / Undisclosed | **Free Tier:** Waitlist / Private Beta.<br>Pricing details unavailable. |
+| **[Writ](https://usewrit.app/)** | Turns a website into a tested API: describe what you need, Writ builds it, tests it on real inputs and serves it as a REST endpoint and an MCP tool. Includes ready-made APIs for 300+ sites and page monitors; signs in with the user's own account when a site needs a login. | Early Stage / Undisclosed | **Free Tier:** 1,000 sign-up credits plus 500 credits/month, no card.<br>Paid plans starting at $15/month. |
 
 ### ⚡ Advanced & Specialized Platforms
 
